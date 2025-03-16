@@ -1,5 +1,7 @@
 # Personal Library Manager
 
+![Preview Image](https://github.com/ausafulislam/Personal_Library_Manager/blob/main/preview.png)
+
 ## Overview
 The **Personal Library Manager** is a command-line application that allows users to manage their personal book collection. Users can add books, remove books, search for books, view statistics, and read book summaries.
 
@@ -45,7 +47,7 @@ Follow the on-screen instructions to manage your book collection.
 ```
 personal-library-manager/
 │-- library_manager.py  # Main script
-│-- books.json          # JSON file storing book data
+│-- library.json          # JSON file storing book data
 │-- README.md           # Project documentation
 ```
 
