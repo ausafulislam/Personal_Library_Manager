@@ -1,0 +1,122 @@
+[
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "Fiction",
+        "read": true,
+        "summary": "A philosophical story about a shepherd's journey to fulfill his personal legend."
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "genre": "Programming",
+        "read": false,
+        "summary": "A handbook of best practices for writing clean and maintainable code."
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "year": 2011,
+        "genre": "History",
+        "read": true,
+        "summary": "A fascinating exploration of the history and impact of humankind on Earth."
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Self-Help",
+        "read": false,
+        "summary": "A guide to building good habits, breaking bad ones, and mastering small behaviors for big results."
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt & David Thomas",
+        "year": 1999,
+        "genre": "Programming",
+        "read": false,
+        "summary": "A must-read for software developers covering techniques to become a better programmer."
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Classic",
+        "read": true,
+        "summary": "A novel that explores serious issues like racial injustice and moral growth through the eyes of a child."
+    },
+    {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "year": -500,
+        "genre": "Strategy",
+        "read": false,
+        "summary": "An ancient Chinese military treatise offering timeless wisdom on strategy and warfare."
+    },
+    {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "year": 2016,
+        "genre": "Self-Help",
+        "read": true,
+        "summary": "A counterintuitive approach to living a good life by focusing on what truly matters."
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": "Fantasy",
+        "read": true,
+        "summary": "The first book in the Harry Potter series, following a young wizard's discovery of his magical heritage."
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "genre": "Science Fiction",
+        "read": false,
+        "summary": "A science fiction masterpiece set in a distant future where politics, religion, and ecology collide."
+    },
+    {
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "year": 1998,
+        "genre": "Business",
+        "read": true,
+        "summary": "A controversial guide on gaining and maintaining power in different areas of life."
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "read": true,
+        "summary": "A chilling vision of a totalitarian future where the government controls every aspect of life."
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "year": 1997,
+        "genre": "Personal Finance",
+        "read": true,
+        "summary": "A financial education book that contrasts the mindsets of the rich and the poor."
+    },
+    {
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "year": 2011,
+        "genre": "Business",
+        "read": false,
+        "summary": "A methodology for startup success by focusing on rapid experimentation and customer feedback."
+    },
+    {
+        "title": "pyhton full course",
+        "author": "ausaf ul islam",
+        "year": 2025,
+        "genre": "First",
+        "read": true,
+        "content": "No DEsc Available"
+    }
+]
